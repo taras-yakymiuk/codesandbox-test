@@ -1,9 +1,13 @@
 # useLocalStorage hook
 
-# THIS IS DRAFT/EXAMPLE, NOT READY FOR PROD
+# **THIS IS A DRAFT/EXAMPLE, NOT READY FOR PROD**
 
-this hook is aimed to solve next problems
+this hook is aimed to solve the next problems
 
-1. create convinient interface for react components via hooks
-2. allow react components to catch changes in LS by specific key regardles of where and how components are far from each others (nesting etc.)
-3. sync LS accross different browser tabs with same app
+1. create convenient interface for react components via hooks
+2. allow react components to catch changes in LS by specific key regardless of where and how components are far from each other (nesting etc.)
+3. sync LS across different browser tabs with the same app
+
+DEMO: [https://codesandbox.io/s/elated-night-ymnhc](https://codesandbox.io/s/elated-night-ymnhc)
+
+GITHUB: https://github.com/taras-yakymiuk/codesandbox-test
